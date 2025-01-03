@@ -1,0 +1,8 @@
+GameProject {
+ ID "ChinaRussia"
+ GUID "633EA5DB4965AD1A"
+ TITLE "China_Russia"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}
